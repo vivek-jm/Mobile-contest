@@ -2,6 +2,19 @@
 
 
 
+<div style=" right"><img src="https://cdn.discordapp.com/attachments/936721052166422568/937091503615004772/Simulator_Screen_Shot_-_iPhone_11_-_2022-01-30_at_02.36.24.png" alt="drawing"
+width="300" height="600"
+  />
+<img src="https://cdn.discordapp.com/attachments/936721052166422568/937091504000872489/Simulator_Screen_Shot_-_iPhone_11_-_2022-01-30_at_02.35.29.png" alt="drawing"
+width="300" height="600"
+  />
+<img src="https://cdn.discordapp.com/attachments/936721052166422568/937091503308804146/Simulator_Screen_Shot_-_iPhone_11_-_2022-01-30_at_02.36.48.png" alt="drawing"
+width="300" height="600"
+  />
+ </div>
+
+
+
 
 ## Problem to solve
 
